@@ -14,9 +14,9 @@
 
 ```
 day16/
-├── README.md                    # File này — hướng dẫn tổng quan
-├── DAY16_SUMMARY.md            # Báo cáo tóm tắt bài học Day 16
-├── submission.md               # Bản nộp bài Day 16 (đầy đủ 7 phần)
+├── README.md                   # File này — hướng dẫn tổng quan
+├── pdf/                        # Slides bài giảng + Student_handbook  
+├── submission.md               # Bản tóm tắt 7 phần
 │
 ├── 1_idea_reframed.md          # Phần 1: Idea reframed as product opportunity
 ├── 2_customer_segment_card.md  # Phần 2: Customer / Segment Card
