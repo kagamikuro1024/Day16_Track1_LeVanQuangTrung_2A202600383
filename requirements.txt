@@ -1,0 +1,20 @@
+# Core PDF Processing
+pdfplumber==0.10.3
+pdfminer.six==20221105
+pymupdf==1.23.8  # fitz
+PyYAML==6.0.1
+
+# Table Extraction
+camelot-py==0.11.0
+
+# Image Processing & OCR
+pdf2image==1.16.3
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# Progress Tracking
+tqdm==4.66.2
+
+# Development/Testing (optional)
+pytest==7.4.3
+pytest-cov==4.1.0
