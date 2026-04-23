@@ -66,18 +66,6 @@ because we can leverage [advantage].
 
 ---
 
-### Checkpoint 3 — Strategy Review
-
-**Kill question: Is this a clear choice or just a list of features?**
-
-✅ **Clear choice**: Chọn hybrid compliance-first approach thay vì generic cloud-only chatbot.
-
-**Không phải danh sách tính năng**:
-- ❌ Bad: "Our product has RAG, ReAct, 5 tools, citations, hybrid deployment"
-- ✅ Good: "We provide instant, course-specific answers with citations through a hybrid ReAct+RAG system, because we leverage compliance as a moat"
-
----
-
 ### Distinct approach vs Current alternatives
 
 | Alternatives | Điểm yếu | TA_Chatbot advantage |
@@ -89,5 +77,3 @@ because we can leverage [advantage].
 **TA_Chatbot chọn một nước đi rõ ràng**: Không cạnh tranh về model quality (OpenAI/Anthropic tốt hơn), mà cạnh tranh về **domain specificity + compliance + availability**.
 
 ---
-
-*File: 4_strategy_statement.md*

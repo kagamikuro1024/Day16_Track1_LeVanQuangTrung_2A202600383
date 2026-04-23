@@ -40,8 +40,8 @@
 - Không thể replicate workflow understanding nếu không có data từ 50+ deployments
 
 **Barrier 2: Compliance infrastructure (PDPA + Data Residency)**
-- Hybrid architecture với on-premise LLM cho PII queries là **costly to build** (cần infra, DevOps, security audit)
-- Most competitors (ChatGPT, generic SaaS) chọn full cloud vì đơn giản → vi phạm PDPA nếu dùng cho Việt Nam
+- Hybrid architecture với on-premise LLM cho PII queries là **tốn kém để xây dựng** (cần cơ sở hạ tầng, DevOps, kiểm toán bảo mật)
+- Hầu hết các đối thủ cạnh tranh (ChatGPT, generic SaaS) chọn full cloud vì đơn giản → vi phạm PDPA nếu dùng cho Việt Nam
 - Compliance barrier tạo ra **moat của những người chịu chi phí setup ban đầu** — không phải ai cũng muốn
 
 **Barrier 3: Course integration & trust**
@@ -50,7 +50,7 @@
 - Competitors phải chạy pilot, thu thập evidence, build trust từ đầu — mất 6-12 tháng
 
 **Barrier 4: Continuous improvement loop**
-- Hệ thống đã có feedback mechanism: student ratings, TA corrections → prompt/RAG updates
+- Hệ thống có feedback mechanism: student ratings, TA corrections → prompt/RAG updates
 - Sau 50 deployments, improvement velocity cao hơn competitors mới vào
 - **First-mover advantage trong vertical CS education tại Việt Nam** với compliance-first approach
 
@@ -65,5 +65,3 @@ TA_Chatbot is a hybrid AI teaching assistant that provides 24/7, course-specific
 We are not a general-purpose coding assistant like ChatGPT, and we are not yet ready to scale beyond CS departments without additional integration work.
 
 ---
-
-*File: 5_moat_hypothesis.md*

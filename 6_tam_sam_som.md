@@ -154,5 +154,3 @@
 3. Confirm TA workload data để tính ROI chính xác
 
 ---
-
-*File: 6_tam_sam_som.md*
