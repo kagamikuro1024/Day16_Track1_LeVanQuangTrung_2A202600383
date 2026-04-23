@@ -150,4 +150,3 @@ Nếu need này được giải quyết tốt, điều gì thay đổi rõ nhấ
 
 ---
 
-*File: 3_need_map.md*

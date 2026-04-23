@@ -6,12 +6,12 @@
 ### Segment name
 **First-year CS students struggling with programming labs during peak study hours**
 
-*(Sinh viên năm 1 ngành CS gặp khó khăn với các bài lab lập trình trong giờ học cao điểm)*
+*(Sinh viên năm 1 ngành Computer Science gặp khó khăn với các bài lab lập trình trong giờ học cao điểm và sau giờ học)*
 
 ---
 
 ### Bối cảnh vận hành (Operational context)
-Sinh viên năm 1 (khoảng 150-200 sv/khóa) đang học các môn cơ bản như Intro to Programming, Data Structures. Họ thường:
+Sinh viên năm 1 (khoảng 150-200 sv/khóa, khoa CS của VinUni) đang học các môn cơ bản như Intro to Programming, Data Structures. Họ thường:
 - Làm bài tập/lab vào **tối (19h-23h)** và **cuối tuần** khi không có lớp
 - Có ít kinh nghiệm debug, dễ mắc lỗi syntax và logic cơ bản
 - Chưa quen với tài liệu khóa học, thường tìm kiếm nhanh trên Google/StackOverflow
@@ -28,7 +28,7 @@ Sinh viên năm 1 (khoảng 150-200 sv/khóa) đang học các môn cơ bản nh
 4. Tìm cách giải quyết:
    - Option A: Google/StackOverflow (có thể nhận thông tin sai)
    - Option B: Hỏi bạn (chất lượng hỗ trợ không đồng đều)
-   - Option C: Đợi TA online (không có vào tối/cuối tuần)
+   - Option C: Đợi TA online trả lời(không có vào tối/cuối tuần)
    - Option D: Bỏ qua/tạm dừng bài tập → không tốt
 5. Mất nhiều thời gian (2-4 giờ) cho một bug đơn giản
 6. Deadline đến → stress, chất lượng bài nộp thấp
@@ -39,7 +39,7 @@ Sinh viên năm 1 (khoảng 150-200 sv/khóa) đang học các môn cơ bản nh
 ---
 
 ### Thời điểm đau nhất (Pain moment)
-**Khoảnh khắc "stuck on a simple bug" vào 22h đêm trước deadline 12h sáng.**
+**Khoảnh khắc "stuck on a simple bug" vào 22h đêm trước deadline 0h sáng và không có ai giúp đỡ.**
 
 Chi tiết:
 - Lúc 22h, sinh viên mới bắt đầu làm bài
@@ -112,5 +112,3 @@ Nếu chỉ được giữ một nhóm khách hàng trong 6 tháng đầu, nhóm
 **Kết luận**: Segment này PASS tất cả 4 tiêu chí.
 
 ---
-
-*File: 2_customer_segment_card.md*
