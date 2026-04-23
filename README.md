@@ -3,9 +3,7 @@
 
 
 ## Members
-- **Tạ Thị Thùy Dương - 2A202600287**
-- **Lê Văn Quang Trung-2A202600383**
-- **Trịnh Xuân Đạt -2A202600326**
+-**Lê Văn Quang Trung-2A202600383**
 
 
 ---
@@ -282,5 +280,3 @@ Before leaving Day 16, your team must have:
 **Chúc các bạn có một Day 16 đầy tension tốt và những câu hỏi đúng!**
 
 ---
-
-*README.md — TA_Chatbot Team · Day 16*

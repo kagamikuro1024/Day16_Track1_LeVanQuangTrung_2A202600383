@@ -1,12 +1,8 @@
 # DAY 16 SUBMISSION — Team TA_Chatbot
 
 ## Members
-- **Tạ Thị Thùy Dương - 2A202600287**
 - **Lê Văn Quang Trung-2A202600383**
-- **Trịnh Xuân Đạt -2A202600326**
-
 ---
-
 ## 1. Idea reframed
 
 ### Original idea:

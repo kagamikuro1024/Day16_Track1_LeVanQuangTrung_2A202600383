@@ -31,5 +31,3 @@
 - Chưa sẵn sàng scale (chỉ cho CS departments, cần integration work thêm)
 
 ---
-
-*File: 7_positioning_note.md*
