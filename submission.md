@@ -163,13 +163,3 @@ We are not a general-purpose coding assistant like ChatGPT, and we are not yet r
 - ✅ Moat: Domain-learning flywheel + compliance barrier
 
 ---
-
-### Open questions muốn khám phá thêm ở Day 17
-
-1. **MVP scope**: Phải build bao nhiêu features để đủ để pilot? Có thể bỏ qua một số tools (ví dụ: analyze_code) trong phase 1 không?
-2. **Assumption validation**: Làm sao measure được "course-specific answer quality"? Metric nào dùng? Golden dataset?
-3. **Integration complexity**: Việc integrate vào LMS (Canvas/Moodle) mất bao lâu? Cần support từ IT department không?
-4. **PII detection accuracy**: Nếu classifier false positive (không detect PII mà thực tế có), có vi phạm PDPA không? Cần threshold nào?
-5. **Onboarding timeline**: Để ingest course materials cho 1 khóa học mất bao lâu? Có automate được không?
-
----
